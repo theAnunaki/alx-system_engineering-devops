@@ -1,2 +1,2 @@
 #!/bin/bash
-printf $((2#$DECIMAL))
+printf "%X\n" $DECIMAL
